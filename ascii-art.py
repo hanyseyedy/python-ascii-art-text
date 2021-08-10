@@ -3,7 +3,7 @@ import pyfiglet
 from termcolor2 import colored
 
 
-valid_colors = ("red", "blue", "green", "yellow", 'cyan', 'magenta')
+valid_colors = ("red", "blue", "green", "yellow", 'cyan', 'magenta', 'brown')
 
 
 def print_art(color, message):
